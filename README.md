@@ -59,8 +59,9 @@ In short, the client wanted to see **“An analysis of their content categories 
  
  ## Task - 3
  ### Data Visualization and Storytelling:
- ** Make the Powerpoint presentation as per the given template
-  Charts Involved :**
+ **Make the Powerpoint presentation as per the given template**
+ 
+ **Charts Involved :**
   >- Pie Chart
   >- Bar Chart
   
