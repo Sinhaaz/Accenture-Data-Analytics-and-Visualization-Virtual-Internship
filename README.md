@@ -69,5 +69,5 @@ In short, the client wanted to see **“An analysis of their content categories 
  
  ## Task - 4
  ### Present to the Client:
- **Present your powerpoint presentation to the client and deliver the insights** 
+ **Present your powerpoint presentation to the client and deliver the insights of your analysis** 
  
