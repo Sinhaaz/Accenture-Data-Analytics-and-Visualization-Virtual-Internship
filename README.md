@@ -20,13 +20,28 @@
  <img src = "Project Team.png">
  
  #### Task for Data Analyst :
-Analysis of sample data sets with visualizations to understand the popularity of different content categories
+Analysis of sample data sets with visualizations to understand the popularity of different content categories.
+
+In short, the client wanted to see **“An analysis of their content categories showing the top 5 categories with the largest popularity”.** 
 
 ## Task - 2
-### Data Cleaning:
  - Often you won’t need all these datasets to find what you’re looking for.
  - So, the first step is to use this [data model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
- - After Analysis we got that there are 3 data sets needed to complete analysis:
- >- Reaction
- >- Content
+ - After Analysis we got data sets needed to complete analysis:
+ >- Reaction Score(score is used to quantified the popularity)
+ >- Content ID
  >- Reaction Types
+ >- Content type
+ >- Category
+ 
+### Data Cleaning:
+#### Clean the data by:
+ - removing rows that have values which are missing,
+ - changing the data type of some values within a column, and
+ - removing columns which are not relevant to this task.
+ - - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
+
+**End result will be three cleaned data set :**
+ - [Reaction Types]()
+ - [Reactions]()
+ - [Content]()
