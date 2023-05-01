@@ -49,6 +49,7 @@ In short, the client wanted to see **“An analysis of their content categories 
 ### Data Modelling:
 
 **Create a final data set by merging 3 tables**
+
 **End result will be one spreadsheet**
  - A cleaned dataset
  - Top 5 categories
