@@ -42,6 +42,30 @@ In short, the client wanted to see **“An analysis of their content categories 
  - - Think about how each column might be relevant to the business question you’re investigating. If you can’t think of why a column may be useful, it may not be worth including it.
 
 **End result will be three cleaned data set :**
- - [Reaction Types]()
- - [Reactions]()
- - [Content]()
+ - [Reaction Types](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/ReactionTypes.csv)
+ - [Reactions](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Reactions.csv)
+ - [Content](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Content.csv)
+
+### Data Modelling:
+
+**Create a final data set by merging 3 tables**
+**End result will be one spreadsheet**
+ - A cleaned dataset
+ - Top 5 categories
+ 
+ ### Cleaned Data set:
+ So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Cleaned%20Dataset.xlsx)
+ 
+ ## Task - 3
+ ### Data Visualization and Storytelling:
+ ** Make a Powerpoint presentation as per the given template**
+ ** Charts Involved :**
+  >- Pie Chart
+  >- Bar Chart
+  
+ - Powerpoint Presentation : [PPT](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/PowerPoint%20presentation.pptx)
+ 
+ ## Task - 4
+ ### Present to the Client:
+ **Present your powerpoint presentation to the client and deliver the insights** 
+ 
