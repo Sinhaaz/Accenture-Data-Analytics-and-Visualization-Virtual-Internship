@@ -24,9 +24,9 @@ Analysis of sample data sets with visualizations to understand the popularity of
 
 ## Task - 2
 ### Data Cleaning:
- >- Often you won’t need all these datasets to find what you’re looking for.
- >- So, the first step is to use this [data model]() to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
- >- After Analysis we got that there are 3 data sets needed to complete analysis:
-   - Reaction
-   - Content
-   - Reaction Types
+ - Often you won’t need all these datasets to find what you’re looking for.
+ - So, the first step is to use this [data model](https://github.com/Sinhaaz/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20model.pdf) to identify which datasets will be required to answer your business question - which is to to figure out the top 5 categories with the largest popularity.
+ - After Analysis we got that there are 3 data sets needed to complete analysis:
+ >- Reaction
+ >- Content
+ >- Reaction Types
